@@ -1,0 +1,27 @@
+#second {
+    
+}
+.second-nav {
+    text-decoration: none;
+
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #828282; 
+}
+.second-nav:hover {
+    color: #070707;
+    transition: all 0.4s ease-in;
+}
+.eleven {
+    color: rgb(255, 108, 132);
+}
+.block-wrap-two {
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+.block-text-price {
+    line-height: 35px;
+    font-weight: 100;
+}

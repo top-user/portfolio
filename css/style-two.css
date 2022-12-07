@@ -1,0 +1,8 @@
+.width-image {
+    width: 400px;
+}
+.block-img-work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
